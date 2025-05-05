@@ -1,9 +1,4 @@
 
-import java.awt.*;
-import javax.swing.*;
-import java.lang.*;
-
-
 public class DataTypeDetails {
 
     public static void main(String[] args) {

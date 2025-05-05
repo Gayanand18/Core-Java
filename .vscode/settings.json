@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "02. Data Types - Variables and LIterals"
+        "03. Operators and Expressions"
     ]
 }
