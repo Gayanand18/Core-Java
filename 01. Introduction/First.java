@@ -10,6 +10,7 @@ public class First {
         name=sc.nextLine();
         
         System.out.println("Welcome "+name);
+        sc.close();
     }
     
 }

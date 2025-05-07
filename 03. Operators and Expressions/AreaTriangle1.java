@@ -13,5 +13,6 @@ public class AreaTriangle1 {
         area = (base * height) / 2;
         
         System.out.println("Area of triangle: " + area);
+        sc.close();
     }
 }

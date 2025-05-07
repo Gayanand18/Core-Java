@@ -18,6 +18,8 @@ public class Cuboid {
         
         System.out.println("Total Area "+totalArea);
         System.out.println("Volume "+volume);
+
+        sc.close();
         
         
     }

@@ -17,6 +17,7 @@ public class AreaTriangle2 {
             area=Math.sqrt(s*(s-a)*(s-b)*(s-c));
             
             System.out.println("Area of Triangle is "+area);
+            sc.close();
             
              
         
