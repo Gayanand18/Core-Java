@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "04. String Class and Printing",
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "04. String Class and Printing"
+        "05. Conditional Statements"
     ]
 }
