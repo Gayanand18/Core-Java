@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "06. Loops",
         "05. Conditional Statements",
         "04. String Class and Printing",
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "06. Loops"
+        "07. Arrays"
     ]
 }
