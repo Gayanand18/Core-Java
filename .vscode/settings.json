@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "09. Object-Oriented Programming",
         "08. Methods",
         "07. Arrays",
         "06. Loops",
@@ -8,7 +9,7 @@
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "09. Object-Oriented Programming"
+        "10. Inheritance"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
