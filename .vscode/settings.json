@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "10. Inheritance",
         "09. Object-Oriented Programming",
         "08. Methods",
         "07. Arrays",
@@ -9,7 +10,7 @@
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "10. Inheritance"
+        "11. Abstract Classes"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
