@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "12. Interfaces",
         "11. Abstract Classes",
         "10. Inheritance",
         "09. Object-Oriented Programming",
@@ -11,7 +12,7 @@
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "12. Interfaces"
+        "13. Inner Classes"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
